@@ -5,7 +5,6 @@ import com.digital.crud.saladereuniao.saladereuniao.model.Room;
 import com.digital.crud.saladereuniao.saladereuniao.repository.RoomRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
-import org.springframework.stereotype.Repository;
 import org.springframework.web.bind.annotation.*;
 
 
