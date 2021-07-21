@@ -21,7 +21,7 @@ import java.util.Map;
 
 import javax.validation.Valid;
 
-@RestController @CrossOrigin(origins = "https://saladereuniao-api.herokuapp.com")
+@RestController
 @RequestMapping("/api/v1")
 public class RoomController {
   @Autowired
