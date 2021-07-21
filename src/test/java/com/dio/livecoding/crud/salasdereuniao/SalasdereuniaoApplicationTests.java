@@ -1,10 +1,10 @@
-package com.digital.crud.saladereuniao.saladereuniao;
+package com.dio.livecoding.crud.salasdereuniao;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SaladereuniaoApplicationTests {
+class SalasdereuniaoApplicationTests {
 
 	@Test
 	void contextLoads() {

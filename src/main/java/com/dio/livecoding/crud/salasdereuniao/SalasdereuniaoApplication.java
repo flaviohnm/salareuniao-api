@@ -1,13 +1,13 @@
-package com.digital.crud.saladereuniao.saladereuniao;
+package com.dio.livecoding.crud.salasdereuniao;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SaladereuniaoApplication {
+public class SalasdereuniaoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SaladereuniaoApplication.class, args);
+		SpringApplication.run(SalasdereuniaoApplication.class, args);
 	}
 
 }
