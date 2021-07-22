@@ -20,10 +20,10 @@
 
 ### :coffee:Confira o projeto publicado
 
-| Fase      | Plataforma | Link                                                         |
-| --------- | ---------- | ------------------------------------------------------------ |
-| Back-End  | Heroku     | [Api Rest - Sala de Reuniao](https://saladereuniao-api.herokuapp.com/api/v1/rooms) |
-| Front-End | GitPages   | [Dashbord - Client-Room](https://flaviohnm.github.io/client-room/rooms) |
+| Fase      | Plataforma | Repo  | Link |
+| --------- | ---------- | ----------| ----------|
+| Back-End  | Heroku     | [Git](https://github.com/flaviohnm/salareuniao-api) | [Api Rest - Sala de Reuniao](https://saladereuniao-api.herokuapp.com/api/v1/rooms) |
+| Front-End | GitPages   | [GIt](https://github.com/flaviohnm/client-room) | [Dashbord - Client-Room](https://flaviohnm.github.io/client-room/rooms) |
 
 ## :pencil:Comentários sobre o projeto
 
